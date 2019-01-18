@@ -1,0 +1,136 @@
+
+@media screen and (max-width: 768px) {
+    .navBarLinks {
+        font-size:3vw;
+    }
+
+    h2 {
+        font-size:3vw;
+    }
+
+    #headerLeft {
+        width:30%;
+        font-size:3.5vw;
+    }
+
+    footer {
+        font-size:3vw;
+    }
+
+    #bioImage {
+        max-width:50%;
+    }
+
+    #bioText {
+        font-size:3vw;
+    }
+
+    #footerText {
+        width:50%;
+        left:25%;
+    }
+
+    .footNavImgLeft,
+    .footNavImg {
+        height:5vw;
+    }
+
+    .portInfo > h1,
+    .portInfo > div > h3 {
+        font-size:3.5vw;
+    }
+
+    .portInfo > p,
+    .portInfo > a,
+    .portInfo > div > p {
+        font-size:3vw;
+    }
+}
+
+@media screen and (max-width: 426px) {
+
+    header {
+        height:10vw;
+    }
+
+    #headCont {
+        margin-left:0;
+        width:100%;
+    }
+
+    nav {
+        float:right;
+        margin-right:2vw;
+        margin-top:1vw;
+    }
+
+    #mainBio {
+        margin-top:15vw;
+        margin-bottom:22vw;
+        margin-left:0%;
+        margin-right:0%;
+        padding-bottom:10vw;
+        width:100%;
+    }
+
+    #bioImage {
+        margin-bottom:1vw;
+        margin-right:2vw;
+    }
+
+    #bioText {
+        font-size:5vw;
+    }
+
+    #headerLeft {
+        font-size:6vw;
+        width:45%;
+    }
+
+    .navBarLinks {
+        font-size:4vw;
+    }
+
+    .portBanners {
+        font-size:6vw;
+    }
+
+    .footNavImgLeft,
+    .footNavImg {
+        height:7vw;
+    }
+
+    h2 {
+        font-size:6vw;
+    }
+
+    .portSquares {
+        width:100%;
+        margin-top:5vw;
+        margin-left:0;
+    }
+
+    .portInfo > h1,
+    .portInfo > div > h3 {
+        font-size:6vw;
+    }
+
+    .portInfo > p,
+    .portInfo > a,
+    .portInfo > div > p {
+        font-size:5vw;
+    }
+
+    .portInfo > p {
+        margin-top:12vw;
+    }
+}
+
+@media screen and (max-width: 321px) {
+
+    #bioImage {
+        max-width:70%;
+        margin-left:15%;
+        float:none;
+    }
+}
