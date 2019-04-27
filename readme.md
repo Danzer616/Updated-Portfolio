@@ -1,1 +1,1 @@
-My portfolio is deployed here: 
+My portfolio is deployed here: https://danzer616.github.io/Updated-Portfolio/
